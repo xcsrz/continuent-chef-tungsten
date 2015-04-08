@@ -3,6 +3,8 @@
 #### Issues to address
 * various bugs
 * replicator installation support
+* support for multiple clusters (connected through replicator)
+* hosts file population - since tungsten REQUIRES hostnames / doesn't support IP addresses
  
 --- 
 **_from the original continuent README_**
